@@ -1,0 +1,19 @@
+python is a high-level programming language also known as a scripting language.
+
+dynamically typed
+
+int a = 10 // not required
+
+a = 10 // required 
+
+python developed by: 
+Guido van Rossum -- 1990
+
+pops + oops
+pops --> procedures object oriented programming
+oops --> object oriented programming
+
+interpreted
+python 3.x
+
+
