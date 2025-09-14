@@ -27,6 +27,8 @@ match choice:
             case 3:
                 plates = int(input("\n How many plates you want :"))
                 print("Your total amount will be", plates*70)
+            case _:
+                print("Invalid choice")
     case 2:
         print("You selected Punjabi dish.")
         print("1 for paneer tikka")
@@ -47,3 +49,5 @@ match choice:
         print("1 for samosa")
         print("2 for paneer tikka")
         print("3 for masala")
+    case _:
+        print("Invalid choice")
