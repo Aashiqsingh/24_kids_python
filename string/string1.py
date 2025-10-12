@@ -15,7 +15,7 @@
 # print(str.isdigit())
 
 
-str = "Hello World"
+# str = "Hello World"
 
 
 # print(str[1:6])
@@ -25,5 +25,39 @@ str = "Hello World"
 # print(str.casefold())
 
 # print(str.find("Hello"))
-print(str.find("W"))
-print
+# print(str.find("W"))
+# print
+
+
+# *
+# **
+# ***
+# ****
+# *****
+
+
+# 1
+# 22
+# 333
+# 4444
+# 55555
+
+
+# 1
+# 23
+# 456
+# 78910
+# 1112131415
+
+
+i=1
+sum = 1
+while i<=5:
+    j=1
+    while j<=i:
+        print(sum,end=" ")
+        sum = sum + 1
+        j = j + 1
+    print()
+    i = i + 1
+    
